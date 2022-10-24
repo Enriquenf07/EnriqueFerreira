@@ -1,5 +1,5 @@
 const pythonButtonTitle = 'Python';
-const pythonButtonText = 'Comecei a aprender logica de programação com python e consegui me aprofundar bem nela, ela sempre esteve comigo durante meu aprendizado, em momentos em que tenho que fazer a implementação de conteudos teoricos, ela é a minha primeira escolha.';
+const pythonButtonText = 'Comecei a aprender logica de programação com python e consegui me aprofundar bem nela, ela sempre esteve comigo durante meu aprendizado, em momentos em que tenho que fazer a implementação de conteudos teoricos, ela é a minha primeira escolha. No momento estou me aprofundando e realizando alguns projetos com o framework Django.';
 const cButtonTitle = 'C e C++';
 const cButtonText = 'Aprender C e C++ foi o que me fez me apaixonar por algoritmos e estrutura de dados, enquanto em python tudo era mais facil, aqui eu tinha que realmente entender o funcionamento da linguagem, dessa forma cristalizando meus conhecimentos.'
 const htmlButtonTitle = 'HTML e CSS'
